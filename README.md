@@ -1,6 +1,6 @@
 # FullStack Social Media App
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Predictor-brightgreen)](http://localhost:3000/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%)](http://localhost:3000/)
 
 ## About Project 
 
