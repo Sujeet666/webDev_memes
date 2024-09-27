@@ -13,11 +13,11 @@ Dev Meme is a web application that allows developers and tech enthusiasts to bro
 7. Responsive Design: The app is fully responsive, offering an optimized experience on both desktop and mobile devices.  
 
 ## Tech Stack:  
-Frontend: React.js for a dynamic user interface and responsive design.  
-Backend: Node.js and Express.js for building the API.  
-Database: MongoDB for managing meme posts, users, and interactions.  
-Authentication: JSON Web Tokens (JWT) for secure user authentication.  
-Hosting: The app can be deployed using platforms like Heroku for the backend and Netlify for the frontend.  
+• Frontend: React.js for a dynamic user interface and responsive design.  
+• Backend: Node.js and Express.js for building the API.  
+• Database: MongoDB for managing meme posts, users, and interactions.  
+• Authentication: JSON Web Tokens (JWT) for secure user authentication.  
+• Hosting: The app can be deployed using platforms like Heroku for the backend and Netlify for the frontend.  
 
 ## Project Reviews :
 
