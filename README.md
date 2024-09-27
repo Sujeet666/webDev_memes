@@ -25,6 +25,4 @@ Dev Meme is a web application that allows developers and tech enthusiasts to bro
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20-brightgreen)](http://localhost:3000/)
 
-[live demo](http://localhost:8888)
-
 
