@@ -1,6 +1,8 @@
 ## About Project:   
 
-Dev Meme is a web application that allows developers and tech enthusiasts to browse, create, and share memes related to programming and development culture. Built using the MERN stack (MongoDB, Express, React, Node.js), this app provides a platform where users can express their coding frustrations, humor, and experiences through memes. It combines creativity with a fun user interface, making it an enjoyable experience for developers to engage with the coding community.
+Dev Meme is a web application that allows developers and tech enthusiasts to browse, create, and share memes related to programming and development culture. Built using the MERN stack (MongoDB, Express, React, Node.js), this app provides a platform where users can express their coding frustrations, humor, and experiences through memes. It combines creativity with a fun user interface, making it an enjoyable experience for developers to engage with the coding community.  
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20-brightgreen)](http://localhost:3000/)
 
 ## Key Features:  
 
@@ -22,5 +24,7 @@ Dev Meme is a web application that allows developers and tech enthusiasts to bro
 ## Project Reviews :
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20-brightgreen)](http://localhost:3000/)
+
+[live demo](http://localhost:8888)
 
 
